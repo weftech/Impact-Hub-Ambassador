@@ -1,0 +1,45 @@
+                            
+/* TEAM */
+
+                            
+Your title: William Felker.
+
+                            
+Site: email, link to a contact form, etc.
+
+                            
+Twitter: @weftech
+
+                            
+Location: San Francisco, United States.
+
+                         
+                 
+                        [...]
+						
+
+							
+/* THANKS */
+
+							
+Name: name or url
+
+						
+                 
+                        [...]
+                        
+
+                            
+/* SITE */
+
+                            
+Last update: YYYY/MM/DD 
+
+                            
+Standards: HTML5, CSS3,..
+
+                            
+Components: Modernizr, jQuery, etc.
+
+                            
+Software: Software used for the development
